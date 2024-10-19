@@ -23,4 +23,4 @@ handler.tags = ['group'];
 handler.command = /^(tagall|invocar|invocacion|todos|invocación|putos)$/i;
 handler.admin = true;
 handler.group = true;
-export default handler;awda
+export default handler;
